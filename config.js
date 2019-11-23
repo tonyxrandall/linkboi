@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://linkboi.se',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'LINKBOISE',
+  subtitle: 'Linkbuilding',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,22 +12,22 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog',
       path: '/'
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/about'
     },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
+      path: '/contact'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Anthony Randall',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Linkboi.se',
     contacts: {
       email: '',
       facebook: '#',
