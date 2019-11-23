@@ -1,22 +1,19 @@
-title	date	template	draft	slug	category	tags	description	socialImage
-Humane Typography in the Digital Age
-2017-08-19T22:40:32.169Z
-post
-false
-/posts/teeeest/
-Typography
-Design
-Typography
-Web Development
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
-/media/42-line-bible.jpg
-The first transition
-The digital age
-Loss of humanity through transitions
-Chasing perfection
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+---
+title: "Horrible Test"
+date: "2019-08-18T22:12:03.284Z"
+template: "post"
+draft: false
+slug: "/posts/teeeest/"
+category: "Typography"
+tags:
+  - "Open source"
+  - "Gatsby"
+  - "Typography"
+description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
+socialImage: "/media/gutenberg.jpg"
+---
 
-The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
+of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
 
 But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.
 
