@@ -30,6 +30,6 @@ fields:
   name: socialImage
   label: socialImage
 pages:
+- content/pages/friends.md
 - content/posts/test-blog-post-this-better-fucking-work.md
 - content/posts/this-is-a-test.md
-- content/pages/friends.md
