@@ -22,7 +22,12 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Friends',
+      path: '/pages/friends'
     }
+    
   ],
   author: {
     name: 'Anthony Randall',
