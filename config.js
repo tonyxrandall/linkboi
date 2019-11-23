@@ -17,11 +17,11 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/about'
+      path: 'pages/about'
     },
     {
       label: 'Contact me',
-      path: '/contact'
+      path: 'pages/contacts'
     }
   ],
   author: {
