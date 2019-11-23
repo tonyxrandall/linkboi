@@ -4,13 +4,16 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: https://github.com/tonyxrandall/linkboi/blob/master/content/pages/about.md
+  label: About
+  match: "**/*"
+  read_only: false
 - type: directory
   path: ''
   label: Directory
   create: all
   match: "**/*"
-- type: heading
-  label: z
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
