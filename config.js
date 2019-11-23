@@ -7,8 +7,8 @@ module.exports = {
   subtitle: 'Linkbuilding',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 10,
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
