@@ -29,5 +29,3 @@ fields:
 - type: file
   name: socialImage
   label: socialImage
-pages:
-- content/this-is-a-test.md
