@@ -30,5 +30,5 @@ fields:
   name: socialImage
   label: socialImage
 pages:
-- content/pages/friends.md
 - content/posts/this-is-a-test.md
+- content/pages/friends.md
