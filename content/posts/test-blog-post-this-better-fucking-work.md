@@ -1,9 +1,9 @@
 ---
 title: Test blog post this better fucking work
 date: 2019-11-07T07:00:00Z
-template: ''
+template: post
 draft: false
-slug: "/posts/test-blog-post"
+slug: "/posts/test-blog-post/"
 category: ''
 tags: []
 description: ''
