@@ -1,13 +1,7 @@
 ---
-title: Friends
-date: 
-template: ''
-draft: false
-slug: ''
-category: ''
-tags: []
-description: ''
-socialImage: ''
-
+title: "Friends"
+template: "page"
+socialImage: ""
 ---
+
 These are some of my friends
