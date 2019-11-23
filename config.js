@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Anthony Randall',
-    photo: '/photo.jpg',
+    photo: '/27751785_1894741984172381_1019759688908070296_n (1).jpg',
     bio: 'Linkboi.se',
     contacts: {
       email: '',
