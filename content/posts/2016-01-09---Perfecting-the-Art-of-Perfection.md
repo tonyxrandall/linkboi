@@ -1,9 +1,9 @@
 ---
-title: Perfecting the Art of Perfection
+title: Test Test Test
 date: "2016-09-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/perfecting-the-art-of-perfection/"
+slug: "/posts/test-post/"
 category: "Design Inspiration"
 tags:
   - "Handwriting"
