@@ -1,15 +1,14 @@
 ---
-title: Test blog post this better fucking work
-date: 2019-11-07T07:00:00Z
 template: post
+title: Test blog post this better fucking work
+slug: /posts/test-blog-post/
 draft: false
-slug: "/posts/test-blog-post/"
-category: ''
-tags: []
-description: ''
-socialImage: ''
-
+date: 2019-11-07T07:00:00.000Z
+description: ass
+category: link
+tags:
+  - linkbuilding
 ---
 FUCK
 
-![](/uploads/25446488_1871338739846039_6312676772518735712_n.jpg)
+![](/media/30127845_2124611477565890_4527009764816362135_n.jpg)
