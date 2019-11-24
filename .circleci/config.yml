@@ -1,86 +1,89 @@
-version: 2
-
-defaults: &defaults
+---
+version: "2"
+defaults:
   docker:
-    - image: circleci/node:10.17.0
-  working_directory: ~/gatsby-starter-lumen
-
+  - image: circleci/node:10.17.0
+  working_directory: "~/gatsby-starter-lumen"
 jobs:
   install:
-    <<: *defaults
+    docker:
+    - image: circleci/node:10.17.0
+    working_directory: "~/gatsby-starter-lumen"
     steps:
-      - checkout
-      - restore_cache:
-          keys:
-            - dependencies-{{ checksum "yarn.lock" }}
-      - run: yarn install --frozen-lockfile
-      - save_cache:
-          paths:
-            - node_modules
-          key: dependencies-{{ checksum "yarn.lock" }}
-
+    - checkout
+    - restore_cache:
+        keys:
+        - dependencies-{{ checksum "yarn.lock" }}
+    - run: yarn install --frozen-lockfile
+    - save_cache:
+        paths:
+        - node_modules
+        key: dependencies-{{ checksum "yarn.lock" }}
   lint:
-    <<: *defaults
+    docker:
+    - image: circleci/node:10.17.0
+    working_directory: "~/gatsby-starter-lumen"
     steps:
-      - checkout
-      - restore_cache:
-          keys:
-            - dependencies-{{ checksum "yarn.lock" }}
-      - run: yarn lint
-
+    - checkout
+    - restore_cache:
+        keys:
+        - dependencies-{{ checksum "yarn.lock" }}
+    - run: yarn lint
   test:
-    <<: *defaults
+    docker:
+    - image: circleci/node:10.17.0
+    working_directory: "~/gatsby-starter-lumen"
     steps:
-      - checkout
-      - restore_cache:
-          keys:
-            - dependencies-{{ checksum "yarn.lock" }}
-      - run: yarn test --runInBand --no-cache
-
+    - checkout
+    - restore_cache:
+        keys:
+        - dependencies-{{ checksum "yarn.lock" }}
+    - run: yarn test --runInBand --no-cache
   coverage:
-    <<: *defaults
+    docker:
+    - image: circleci/node:10.17.0
+    working_directory: "~/gatsby-starter-lumen"
     steps:
-      - checkout
-      - restore_cache:
-          keys:
-            - dependencies-{{ checksum "yarn.lock" }}
-      - run: yarn test:coverage --runInBand --no-cache
-      - save_cache:
-          key: coverage-{{ .Environment.CIRCLE_SHA1 }}
-          paths:
-            - coverage
-
+    - checkout
+    - restore_cache:
+        keys:
+        - dependencies-{{ checksum "yarn.lock" }}
+    - run: yarn test:coverage --runInBand --no-cache
+    - save_cache:
+        key: coverage-{{ .Environment.CIRCLE_SHA1 }}
+        paths:
+        - coverage
   codecov:
-    <<: *defaults
+    docker:
+    - image: circleci/node:10.17.0
+    working_directory: "~/gatsby-starter-lumen"
     steps:
-      - checkout
-      - restore_cache:
-          keys:
-            - dependencies-{{ checksum "yarn.lock" }}
-      - restore_cache:
-          keys:
-            - coverage-output-{{ .Environment.CIRCLE_SHA1 }}
-      - run: yarn global add codecov
-      - run: yarn codecov
-    
+    - checkout
+    - restore_cache:
+        keys:
+        - dependencies-{{ checksum "yarn.lock" }}
+    - restore_cache:
+        keys:
+        - coverage-output-{{ .Environment.CIRCLE_SHA1 }}
+    - run: yarn global add codecov
+    - run: yarn codecov
 workflows:
-  version: 2
+  version: "2"
   test:
     jobs:
-      - install
-      - lint:
-          requires:
-            - install
-      - test:
-          requires:
-            - install
-      - coverage:
-          requires:
-            - install
-      - codecov:
-          requires:
-            - coverage
-          
-  backend:
+    - install
+    - lint:
+        requires:
+        - install
+    - test:
+        requires:
+        - install
+    - coverage:
+        requires:
+        - install
+    - codecov:
+        requires:
+        - coverage
+  backend: https://linkboi.se/admin
   name: github
   repo: tonyxrandall/linkboi
