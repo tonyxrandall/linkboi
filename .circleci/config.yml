@@ -84,6 +84,6 @@ workflows:
     - codecov:
         requires:
         - coverage
-  backend: https://linkboi.se/admin
+backend:
   name: github
   repo: tonyxrandall/linkboi
