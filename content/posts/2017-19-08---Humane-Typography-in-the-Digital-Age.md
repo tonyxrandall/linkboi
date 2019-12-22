@@ -1,80 +1,150 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
-template: "post"
+template: post
+title: Copying Your Competitors Means You're Losing
+slug: /posts/copying-your-competitors/
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age/"
-category: "Typography"
+date: 2016-09-16T22:40:00.000Z
+description: 'Find your own shit bro. '
+category: Typography
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
-socialImage: "/media/42-line-bible.jpg"
+  - Design
+  - Typography
+  - Web Development
 ---
+A go-to link building strategy of a lot of SEOs is to backlink their main competitors and attempt to replicate their link profiles. After all, if they’re ranking with those backlinks, you should rank with them too, right?
 
-- [The first transition](#the-first-transition)
-- [The digital age](#the-digital-age)
-- [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
-- [Chasing perfection](#chasing-perfection)
 
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
 
-The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
+There are a number of reasons why doing so would provide good insight about where and how your competitors are getting their links. It can also help you find low-effort links or publications which you can contribute to. But pursuing your competitors’ backlinks because you think getting those same links is going to help you rank is going to lead to a lot of frustration, and it’s not going to help you beat them in search.
 
-But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.
 
-## The first transition
 
-A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.
+Personally, I think if this strategy makes up any significant amount of your link building efforts (like more than 10-15%), it means you’re losing.
 
-The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.
 
-![42-line-bible.jpg](/media/42-line-bible.jpg)
 
-*The 42–Line Bible, printed by Gutenberg.*
+Why copying your competitors’ backlinks is bunk:
 
-But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.
+Your competitors have already gotten the benefit of those links.
 
-## The digital age
 
-The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.
 
-> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.
->
-— Massimo Vignelli
+When gathering a list of competitors’ backlinks to try to replicate, most of those links have likely already existed for quite some time (unless you’re regularly stalking your competitors) so if search engines have already weighed those links in favor of your competitor then your competitor has already gotten the benefit of them. Who knows when (if) search engines will crawl that page again. And when (if) they do, that’s even still before waiting around for the benefits of that link to begin taking effect on your own rankings.
 
-Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.
 
-## Loss of humanity through transitions
 
-Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.
+Furthermore, if we’re to assume the idea that authority, or “link juice,” is divided among all links on a page is true (it isn’t), it stands to reason that by building links on the same pages as your competitor you would only either 1) further dilute the value of a competitor’s link or 2) receive less than the amount of “link juice” your competitor received for a link on the same page months ago. And again, that is all before you have to wait around to see the results (if any) of that link. Both of those are losing scenarios.
 
-<figure>
-	<blockquote>
-		<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>
-		<footer>
-			<cite>— Josef Mueller-Brockmann</cite>
-		</footer>
-	</blockquote>
-</figure>
 
-Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.
 
-> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.
->
-> — Eric Gill
+That doesn’t end at old school PageRank division though. Suppose you ask your friend who they recommend to replace the roof on your house and they say Bob is without a doubt the best. Okay cool. Bob does a good job, so you call Bob. Now imagine they say Bob, Tom, Bill and Jennifer all do a great job replacing roofs. Well, now you’ve narrowed it down to a handful of capable roofers, but you’re still going to have to evaluate them each individually to see who you should choose. If you’re a roofer, you probably would want to be listed among them, but that endorsement simply isn’t going to be worth as much as it would be if you were listed on your own.
 
-We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.
 
-![type-through-time.jpg](/media/type-through-time.jpg)
 
-*Type through 5 centuries.*
+If your goal is to outrank a competitor, it would largely be a waste of time to target a link which – at best – would be worth less than it was for your competitor when they got that same link.
 
-We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.
 
-## Chasing perfection
 
-Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
+You don’t know where they’re getting all of their links.
 
-*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*
+
+
+No backlink tool can give you a definitive list of all of the links in a search engine’s index, as evidenced by the fact that examining a website’s backlinks with two or more of these tools will give you two or more different lists of backlinks (with some overlap).
+
+
+
+Sure, you could download backlink reports from multiple sources, combine them together into one spreadsheet and remove duplicates to get a more complete list, but there’s still no way to guarantee that the list you end up with is a list of every link that a search engine knows about. Doing this could provide a list of less (or more!) links than a search engine is using to rank a that website, so even if you were to build a link from every single page/domain in that list, the result is still likely to be a backlink profile that is not only inferior to your competitor’s but incomplete as well.
+
+
+
+You don’t know which links are actually helping them rank.
+
+
+
+Just like there is no way for a backlink tool to identify every link in a search engine’s index, there is also no way for a backlink tool to determine which of those links are helping or harming a website. Sure, an experienced link builder can look at most web pages and determine whether or not they would feel comfortable targeting a certain link and some tools can give you a rough idea of the value of a link based on their own calculations, but the fact is no one is qualified to make those claims except the search engines themselves, and they’re not going to do that for us.
+
+
+
+You don’t know which links search engines have crawled; you don’t know which links search engines view as positive; you don’t know which links search engines view as negative. And perhaps most importantly, you don’t know which links are sending them traffic. So it’s best to target links which you know will send you traffic.
+
+
+
+Also, a link from a page that is helping your competitor rank doesn’t necessarily mean that a link from that same page will help your website rank, at least not by the same amount. Consider this: a 1200 word article or review written specifically about a competitor featured on a highly respected website could be sending a few different positive signals – natural keywords in anchor text, multiple links, multiple brand mentions, etc. Let’s say at the bottom of that article the author has featured a small section where they link to a handful of websites (with branded anchor text) who provide a similar service for their readers who might not be completely satisfied with the featured brand. I would probably attempt to get a link on that page, but I wouldn’t exactly expect my link to carry the same weight as the links to the website which the article was written about.
+
+
+
+Your competitors have no idea what they’re doing.
+
+
+
+Judging by the amount of low quality and spammy backlinks in most (seriously) backlink profiles, it’s probably safe to say that most of your competitors have absolutely no idea what they’re doing.
+
+
+
+Sure, you could comb through and choose to target only the links which you think are the best. But in reality, you simply don’t know what kind of misguided information your competitors may be following in their SEO efforts. Do you really want to blindly trust their intuition with your website?
+
+
+
+You aren’t building your own authority.
+
+
+
+This is perhaps the most important reason of all. Let’s assume that you’re able to do something impossible: get a link from every website that your competitor has. Let’s also assume another impossibility: every one of those links is viewed as valuable by search engines. Great, you have now built up a backlink portfolio identical to your competitor, and you may even see some ranking improvements from doing so. There’s just one problem: you haven’t done anything to set yourself apart.
+
+
+
+If each one of your links is a carbon copy of your competitor’s links, you’re only telling search engines that you’re as good as your competitor and not better. If your competitor is already ranking because of those links, what incentive would a search engine have to place your website above theirs?
+
+
+
+What’s more, the second your competitor gets another link, you’re behind again.
+
+
+
+Some reasons you might want to backlink competitors:
+
+Having said all of the above, there are still a few reasons why one might benefit from analyzing their competitors’ backlinks and there is no doubt a lot of valuable information a link builder can learn by doing so.
+
+
+
+Identify whether you need to build links to compete.
+
+
+
+I might be a little biased since I would almost always answer this question with a resounding yes!. However, since ranking factors can vary by niche (and even by individual keywords), backlinking competitors can give you a clue as to whether the leading sites are ranking because of links or not.
+
+
+
+For example, suppose the top 10 results for a given keyword all have what you would consider to be mediocre links – as in, no links that you would consider to be harmful but also very few links that you would be proud to deliver to a client at the end of the month. Suppose they all also have very few referring domains. This would tell you 3 main things: 1) This niche might either be harder than average to build links in OR none of these websites are actively building links. 2) Assuming either of the first statements are true, you will likely see substantial benefits from a good link building strategy. 3) You should examine these sites to determine what other aspects of SEO they are doing well, which you might want to address on your own website before starting to build links.
+
+
+
+Compare to other competitors.
+
+
+
+You don’t have to compare everything your competitors are doing to your own efforts. Backlinking with intent to compare competitors against each other can help you identify niche trends that you can benefit from as well as what competitors are doing to set themselves apart. For example, you may notice that several of your competitors are all getting links from a particular website (and that could be a valid reason to “copy” them). On the other hand, this analysis might reveal that competitor A is targeting a different kind of customer than competitor B even though they both offer roughly the same product.
+
+
+
+Similarly, if analysis for the top 10 websites ranking for any given keyword shows that they have an average of 1300 backlinks with the top 3 ranking sites having double or more than that, meanwhile none of the first page results have less than 600 backlinks, then you can have at least a rough idea of where you need to be before you can reasonably expect to rank among them. (That is just one example of information a link builder might take away from analyzing competitors. Don’t use that as an infallible formula for ranking.)
+
+
+
+Identify what they’re not doing.
+
+
+
+So you’ve got some competitors who are absolutely killing you in organic search. Through backlink analysis you know what they’re doing right, you know where they’re getting their links and how, but how does that ultimately help you to rank?
+
+
+
+The real value in a backlink report is not that it tells you “\_\_\_\__.com got \_\_\_\_ amount of links from \_\_\_\__ amount of domains with an average \[insert random metric] of \_\_\_\_.” but rather what it helps you determine they \*aren’t\* doing. Finding a way to fill those gaps is what is going to set you apart and help you see benefit from link building.
+
+
+
+Final Thoughts
+
+
+
+It’s undeniable that there are times you’ll find opportunities to get great links by combing through the link profiles of your competitors, but that time is much better spent by building your own authority and finding a way to stand out. If you run an entire race in 2nd place, you can’t reasonably expect to win.
