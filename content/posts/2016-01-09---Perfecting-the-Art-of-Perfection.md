@@ -78,7 +78,7 @@ You can be as ethical as you want with your link building, but none of it is goi
 
 
 
-How to actually get people to respond to your emails.
+## How to actually get people to respond to your emails.
 
 Here are some sneaky little things that I do to get people to respond to me. They are almost the complete opposite of the tips I listed above.
 
